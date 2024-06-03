@@ -24,7 +24,10 @@
     <ClCompile Include="ioFileWithPath.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ManualExceptions.cpp">
+    <ClCompile Include="ManualException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExceptionStandard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

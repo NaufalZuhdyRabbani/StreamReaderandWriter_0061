@@ -127,9 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ExceptionStandard.cpp" />
     <ClCompile Include="ioFile.cpp" />
     <ClCompile Include="ioFileWithPath.cpp" />
-    <ClCompile Include="ManualExceptions.cpp" />
+    <ClCompile Include="ManualException.cpp" />
     <ClCompile Include="StreamReadandWrite_0061.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
