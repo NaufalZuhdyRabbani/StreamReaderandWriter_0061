@@ -20,4 +20,4 @@ int main()
 	}
 	cout << "Baris Program yang terakhir" << endl;
 	//penanda 2 : bahwa program berjalan tanpa berhenti
-} 
+}  
