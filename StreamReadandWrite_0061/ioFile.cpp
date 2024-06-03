@@ -23,4 +23,4 @@ int main() {
 		if (baris == "q") break;
 		//menulis dan memasukan nilai dari 'baris' kedalam file
 	}
-} 
+}  
