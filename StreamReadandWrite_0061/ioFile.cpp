@@ -42,6 +42,6 @@ int main() {
 			// dan tampilkan di sini 
 			cout << baris << '\n';
 		}
-		//tutup
+		//tutup file tersebut setelah selesai
 	}
-}       
+}        
