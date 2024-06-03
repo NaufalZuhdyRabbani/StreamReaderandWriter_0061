@@ -23,4 +23,4 @@ int main() {
 		cout << "- ";
 		//mendapatkan setiap karakter data satu baris
 	}
-}
+} 
